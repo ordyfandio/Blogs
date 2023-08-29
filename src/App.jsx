@@ -3,7 +3,6 @@
 import "./styles.css"
 import Navbar from "./navbar";
 import Home from "./Home";
-import Form from "./form";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import Create from "./Create";
 import BlogDetails from "./BlogDetails";
